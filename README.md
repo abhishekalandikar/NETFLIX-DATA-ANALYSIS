@@ -1,4 +1,5 @@
                                                                 # NETFLIX-DATA-ANALYSIS
+
 Tool used :- SQL, TABLEAU 
 DATASET :- https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
 
@@ -14,3 +15,6 @@ DATASET :- https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-mov
  9) What were the top 3 most common genres?
  10) Production countries with the most movies and shows?
  11) What are top 10 shows with most seasons? 
+
+
+![image](https://github.com/abhishekalandikar/NETFLIX-DATA-ANALYSIS/assets/95140474/62ecb896-3d63-468d-b96d-f4148ca65a50)
