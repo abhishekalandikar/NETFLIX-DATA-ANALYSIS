@@ -1,6 +1,7 @@
-                                                                # NETFLIX-DATA-ANALYSIS
+                                          # NETFLIX-DATA-ANALYSIS
 
 Tool used :- SQL, TABLEAU 
+
 DATASET :- https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
 
  QUESTIONS I WANT TO ANSWER FROM DATASET ARE : -
